@@ -1,0 +1,8 @@
+client_code;cd_punto;supplytype;address;year;month;day;time_hour;time_minutes;Autolettura_value;canaleProvenienza
+1234567;PR5387719;GAS;via Alessandro Algardi 5;2018;11;16;17;5;1234;chatbot
+1234567;PR5387720;LIGHT;via Alessandro Algardi 5;0;0;0;0;0;0;chatbot
+1234567;PR5387721;GAS;via Amleto Palermi 15;2018;11;16;20;6;09876;chatbot
+1234567;PR5387722;LIGHT;via Amleto Palermi 15;0;0;0;0;0;0;chatbot
+1234568;PR5387745;LIGHT;via Piero Cartoni 45;0;0;0;0;0;0;chatbot
+1234568;PR5387746;GAS;via Piero Cartoni 45;2018;11;16;15;48;5456;chatbot
+7654321;PR5387750;LIGHT;via Candiglio  125;0;0;0;0;0;0;chatbot

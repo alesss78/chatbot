@@ -1,0 +1,10 @@
+from: can't read /var/mail/flask
+/home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: 2: /home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: import: not found
+/home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: 3: /home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: import: not found
+/home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: 4: /home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: import: not found
+/home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: 5: /home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: : not found
+/home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: 6: /home/ubuntu/dialogflow-webhook-sorgenia/autolettura_1.py: Syntax error: "(" unexpected
+Traceback (most recent call last):
+  File "Pi_webhook.py", line 3, in <module>
+    import pyowm
+ImportError: No module named pyowm
